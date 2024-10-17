@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page1{
+    height: 100vh;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/7c0e18aa-2c95-474d-802e-7f30e75dcca4/web/IN-en-20241014-TRIFECTA-perspective_e7121311-c11e-4809-a3e6-22abffa33569_large.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* .page2{
+    height: 100vh;
+    background-image: url(./netflix.net.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
